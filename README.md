@@ -40,7 +40,7 @@ To begin using Custom DataGrid, follow these simple steps:
 1. **Add Dependency**:You can install the package via Composer. Run the following command in your terminal:
 
     ```bash
-    composer require bytestechnolabs/datagrid 
+    composer require datagrid/crud
     ```
 
 2. **Service Provider**: Add the Custom DataGrid service provider to your Laravel application's `config/app.php` file:
